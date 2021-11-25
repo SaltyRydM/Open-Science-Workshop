@@ -1,0 +1,13 @@
+---
+title: "Workshop"
+author: "Marius Saltvedt"
+date: "11/16/2021"
+output: 
+  rmarkdown::github_document:
+    toc: true
+    number_section: true
+---
+# Day 1
+
+Make repository from local to github
+usethis::use_github()
